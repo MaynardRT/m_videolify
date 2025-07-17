@@ -1,7 +1,7 @@
 # Videolify
 AI assistant video downloader.
 
-## Features
+## ✅ Features
 - Download video content from the website sources.
 
 ## </> Authors
