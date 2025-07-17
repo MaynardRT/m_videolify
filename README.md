@@ -1,4 +1,4 @@
-# videolify
+# Videolify
 AI assistant video downloader.
 
 ## Features
