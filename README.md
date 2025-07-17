@@ -15,3 +15,5 @@ Please adhere to this project's `code of conduct`.
 
 ## 🚀 About Me
 ___Hi, I’m Nard—a full-stack software engineer specializing in web development technologies, including frontend and backend framew
+
+#DEVELOPMENT IN PROGRESS
